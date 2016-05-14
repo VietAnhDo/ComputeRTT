@@ -1,4 +1,5 @@
-var outgoingPacketContainer = [];
+var outgoingPacketContainer;
+var RTTdata;
 // Begin parse csv file using papaparse lib
 $(function()
 {
@@ -35,7 +36,9 @@ function completeFn(results, file)
 {
 	console.log(results);
 	console.log(results.data.length);
-	console.log( computeRTT(results.data) );
+	outgoingPacketContainer = [];
+	RTTdata = computeRTT(results.data);
+	loadChart();
 }
 // End parse csv file using papaparse lib
 /**
