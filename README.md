@@ -1,8 +1,9 @@
 # ComputeRTT
 Compute RTT of the first stream in csv input file and display result on line chart
-# How to run
-run main.html and choose the input csv file from local
-# Explaination
+<h2>How to run</h2>
+- run main.html and choose the input csv file( that export from wireshark ) from local
+- click compute RTT
+<h2>Explaination</h2>
 - Phase 1: Parse CSV file ( using <a href='http://papaparse.com/'>papaparse</a> )
 - Phase 2: Compute RTT and return a Array of pair of sequence number and RTT
 - Phase 3: Display on line chart ( using <a href='https://developers.google.com/chart/'>google chart</a> )
