@@ -1,4 +1,4 @@
-<h1>Contributors :<h1>
+<h1>Contributors :</h1>
     Do Viet Anh
     Le Truong Giang 13020730
     Thai Dinh Phuc
