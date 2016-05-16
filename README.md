@@ -1,8 +1,9 @@
 <h1>Contributors :</h1>
-    Do Viet Anh
-    Le Truong Giang 13020730
+    Do Viet Anh     -MSV: 13020752
+    Le Truong Giang -MSV: 13020730
     Thai Dinh Phuc
     Cao Minh Son
+    Nguyễn Tiến Việt
 
 
 
