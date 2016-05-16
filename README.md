@@ -1,8 +1,8 @@
 <h1>Contributors :<h1>
-<h1>Do Viet Anh  <h1>
-<h1>Le Truong Giang 13020730<h1>
-<h1>Le Truong Giang <h1>
-<h1>Le Truong Giang <h1>
+    Do Viet Anh
+    Le Truong Giang 13020730
+    Thai Dinh Phuc
+    Cao Minh Son
 
 
 
