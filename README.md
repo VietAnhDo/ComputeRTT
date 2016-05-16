@@ -1,3 +1,10 @@
+Contributors :
+Le Truong Giang 13020730
+Thai Dinh Phuc
+Do Viet Anh 
+Cao Minh Son
+
+
 # ComputeRTT
 Compute RTT of the first stream in csv input file and display result on line chart
 <h2>How to run</h2>
@@ -15,3 +22,5 @@ Compute RTT of the first stream in csv input file and display result on line cha
     - incomming packet Acknowledgment number (Ack) == outgoing packet Sequence number(Seq) + outgoing packet Length (Len)
     - difference time of them is RTT
     - remove that incoming packet from Container
+
+
