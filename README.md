@@ -2,7 +2,7 @@
     Do Viet Anh     -MSV: 13020752
     Le Truong Giang -MSV: 13020730
     Thai Dinh Phuc
-    Cao Minh Son
+    Cao Minh Son    -MSV: 13020650
     Nguyễn Tiến Việt
 
 
